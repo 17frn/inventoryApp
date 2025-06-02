@@ -16,3 +16,25 @@
 <li>Search button</li>
 
 # <h2>💥Installation💥</h2>
+<li>Clone this repo from main branch to your directory</li>
+</br>
+
+```
+https://github.com/17frn/inventoryApp.git
+```
+
+</br>
+<li>Open <b>inventoryApp</b> folder from terminal</li>
+<li>Do</li>
+</br>
+
+```
+./inventory_app
+```
+</br>
+<li>Make sure you've already give permission into these files</li>
+</br>
+
+```
+chmod +x ./inventory_app
+```
