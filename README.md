@@ -38,3 +38,31 @@ https://github.com/17frn/inventoryApp.git
 ```
 chmod +x ./inventory_app
 ```
+</br>
+<h2>✅OPTIONAL BUT RECCOMENDED</h2>
+<li>Send that app into desktop app</li>
+<li>Open terminal</li>
+</br>
+
+```
+cd Desktop
+nano inventory_app.desktop
+```
+```
+[Desktop Entry]
+Version=1.0
+Name=Inventory App
+Comment=v1
+Exec=/your-project-path
+Icon=/your-icon-path
+Terminal=false
+Type=Application
+Categories=Utility;
+```
+```
+ctrl+o
+ctrl+x
+```
+
+</br>
+<li>Send that shortcut to desktop</li>
