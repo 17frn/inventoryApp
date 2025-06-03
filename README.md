@@ -1,4 +1,4 @@
-# <h1 align="center">Preview</h1>
+# <h1 align="center">Snapshot</h1>
 ![Screenshot](Screenshot_2025-06-02_16-45-59.png)
 
 # <h1>Overview 👀</h1>
