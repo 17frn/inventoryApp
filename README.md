@@ -8,6 +8,7 @@
 # <h2>🪧NOTE🪧</h2>
 <li>This app is under development</li>
 <li>Already testing in Arch linux system</li>
+<li>DON'T FORGET TO CHECK MY UPDATE PROGRESS🙌</li>
 
 # <h2>📦Whats new?</h2>
 <li>CRUD features</li>
