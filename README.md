@@ -17,14 +17,8 @@
 <li>Search button</li>
 
 # <h2>💥Installation💥</h2>
-<li>Clone this repo from main branch to your directory</li>
-</br>
-
-```
-https://github.com/17frn/inventoryApp.git
-```
-
-</br>
+<li>Going to release appliaction list on the right or bottom side</li>
+<li>Select the last releases and download it</li>
 <li>Open <b>inventoryApp</b> folder from terminal</li>
 <li>Do</li>
 </br>
